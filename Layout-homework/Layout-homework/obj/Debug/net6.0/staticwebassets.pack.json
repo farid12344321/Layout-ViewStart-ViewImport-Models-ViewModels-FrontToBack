@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Layout-homework.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Layout-homework.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\css\\templatemo-tale-seo-agency.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-tale-seo-agency.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\about-us-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\banner-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-left.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\banner-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-right.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\contact-left.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\cta-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\cta-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\faqs-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\faqs-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\happyclient-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\happyclient-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\infos-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\infos-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\left-infos.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\left-infos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\projects-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\projects-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\projects-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\projects-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\projects-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\services-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\services-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\services-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\services-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\services-left.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\services-left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\images\\video-thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\video-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popup.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\assets\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\homework\\AspNet\\Layout-ViewStart-ViewImport-Models-ViewModels-FrontToBack\\Layout-homework\\Layout-homework\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Layout-homework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Layout-homework.props",
+      "PackagePath": "build\\Layout-homework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Layout-homework.props",
+      "PackagePath": "buildMultiTargeting\\Layout-homework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Layout-homework.props",
+      "PackagePath": "buildTransitive\\Layout-homework.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
